@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/star-wars-timeline/static/css/main.b6d538e1.chunk.css",
-    "main.js": "/star-wars-timeline/static/js/main.a1e2d1f8.chunk.js",
-    "main.js.map": "/star-wars-timeline/static/js/main.a1e2d1f8.chunk.js.map",
-    "runtime-main.js": "/star-wars-timeline/static/js/runtime-main.0889e409.js",
-    "runtime-main.js.map": "/star-wars-timeline/static/js/runtime-main.0889e409.js.map",
-    "static/js/2.56604604.chunk.js": "/star-wars-timeline/static/js/2.56604604.chunk.js",
-    "static/js/2.56604604.chunk.js.map": "/star-wars-timeline/static/js/2.56604604.chunk.js.map",
-    "static/js/3.39960f96.chunk.js": "/star-wars-timeline/static/js/3.39960f96.chunk.js",
-    "static/js/3.39960f96.chunk.js.map": "/star-wars-timeline/static/js/3.39960f96.chunk.js.map",
+    "main.css": "/star-wars-timeline/static/css/main.5773f589.chunk.css",
+    "main.js": "/star-wars-timeline/static/js/main.7194fcf7.chunk.js",
+    "main.js.map": "/star-wars-timeline/static/js/main.7194fcf7.chunk.js.map",
+    "runtime-main.js": "/star-wars-timeline/static/js/runtime-main.b9166fd1.js",
+    "runtime-main.js.map": "/star-wars-timeline/static/js/runtime-main.b9166fd1.js.map",
+    "static/js/2.11277389.chunk.js": "/star-wars-timeline/static/js/2.11277389.chunk.js",
+    "static/js/2.11277389.chunk.js.map": "/star-wars-timeline/static/js/2.11277389.chunk.js.map",
+    "static/js/3.4b0f82d3.chunk.js": "/star-wars-timeline/static/js/3.4b0f82d3.chunk.js",
+    "static/js/3.4b0f82d3.chunk.js.map": "/star-wars-timeline/static/js/3.4b0f82d3.chunk.js.map",
     "index.html": "/star-wars-timeline/index.html",
-    "static/css/main.b6d538e1.chunk.css.map": "/star-wars-timeline/static/css/main.b6d538e1.chunk.css.map",
-    "static/js/2.56604604.chunk.js.LICENSE.txt": "/star-wars-timeline/static/js/2.56604604.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/star-wars-timeline/static/media/logo.6ce24c58.svg"
+    "static/css/main.5773f589.chunk.css.map": "/star-wars-timeline/static/css/main.5773f589.chunk.css.map",
+    "static/js/2.11277389.chunk.js.LICENSE.txt": "/star-wars-timeline/static/js/2.11277389.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0889e409.js",
-    "static/js/2.56604604.chunk.js",
-    "static/css/main.b6d538e1.chunk.css",
-    "static/js/main.a1e2d1f8.chunk.js"
+    "static/js/runtime-main.b9166fd1.js",
+    "static/js/2.11277389.chunk.js",
+    "static/css/main.5773f589.chunk.css",
+    "static/js/main.7194fcf7.chunk.js"
   ]
 }
