@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/star-wars-timeline/static/css/main.5773f589.chunk.css",
-    "main.js": "/star-wars-timeline/static/js/main.7194fcf7.chunk.js",
-    "main.js.map": "/star-wars-timeline/static/js/main.7194fcf7.chunk.js.map",
+    "main.css": "/star-wars-timeline/static/css/main.4cab4b46.chunk.css",
+    "main.js": "/star-wars-timeline/static/js/main.6b4a9e6f.chunk.js",
+    "main.js.map": "/star-wars-timeline/static/js/main.6b4a9e6f.chunk.js.map",
     "runtime-main.js": "/star-wars-timeline/static/js/runtime-main.b9166fd1.js",
     "runtime-main.js.map": "/star-wars-timeline/static/js/runtime-main.b9166fd1.js.map",
-    "static/js/2.11277389.chunk.js": "/star-wars-timeline/static/js/2.11277389.chunk.js",
-    "static/js/2.11277389.chunk.js.map": "/star-wars-timeline/static/js/2.11277389.chunk.js.map",
+    "static/js/2.e00ed49b.chunk.js": "/star-wars-timeline/static/js/2.e00ed49b.chunk.js",
+    "static/js/2.e00ed49b.chunk.js.map": "/star-wars-timeline/static/js/2.e00ed49b.chunk.js.map",
     "static/js/3.4b0f82d3.chunk.js": "/star-wars-timeline/static/js/3.4b0f82d3.chunk.js",
     "static/js/3.4b0f82d3.chunk.js.map": "/star-wars-timeline/static/js/3.4b0f82d3.chunk.js.map",
     "index.html": "/star-wars-timeline/index.html",
-    "static/css/main.5773f589.chunk.css.map": "/star-wars-timeline/static/css/main.5773f589.chunk.css.map",
-    "static/js/2.11277389.chunk.js.LICENSE.txt": "/star-wars-timeline/static/js/2.11277389.chunk.js.LICENSE.txt"
+    "static/css/main.4cab4b46.chunk.css.map": "/star-wars-timeline/static/css/main.4cab4b46.chunk.css.map",
+    "static/js/2.e00ed49b.chunk.js.LICENSE.txt": "/star-wars-timeline/static/js/2.e00ed49b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b9166fd1.js",
-    "static/js/2.11277389.chunk.js",
-    "static/css/main.5773f589.chunk.css",
-    "static/js/main.7194fcf7.chunk.js"
+    "static/js/2.e00ed49b.chunk.js",
+    "static/css/main.4cab4b46.chunk.css",
+    "static/js/main.6b4a9e6f.chunk.js"
   ]
 }
