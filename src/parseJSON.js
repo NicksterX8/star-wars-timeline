@@ -1,8 +1,6 @@
 
 import { Item } from './model/item'
 
-const fs = require('fs')
-
 function parseJSON() {
 
     const itemData = require('./itemData.json')
@@ -20,9 +18,7 @@ function parseJSON() {
 function dataObjectToItem(dataObject, id) {
 
     let newItem = new Item(dataObject.name, id, dataObject.medium,
-         dataObject.canontype)
-
-         console.log(newItem)
+         dataObject.canonType)
 
     newItem.createNode(dataObject.date, dataObject.date, dataObject.publication)
 

@@ -14,6 +14,12 @@ var Item = /** @class */ (function () {
         var newNode = new itemNode_1.ItemNode(position, date, publication);
         this.nodes.push(newNode);
     };
+    Item.prototype.baseNode = function () {
+        if (this.nodes[0]) {
+            return this.nodes[0];
+        }
+        return new itemNode_1.ItemNode();
+    };
     return Item;
 }());
 exports.Item = Item;

@@ -21,6 +21,13 @@ class Item {
         let newNode = new ItemNode(position, date, publication);
         this.nodes.push(newNode)
     }
+
+    baseNode() {
+        if (this.nodes[0]) {
+            return this.nodes[0]
+        }
+        return new ItemNode()
+    }
 }
 
 export { Item };

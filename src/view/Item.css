@@ -1,4 +1,71 @@
-.itemList {
-    display: flex;
-    align-content: flex-end;
+
+
+
+.itemCollection {
+    border: 5px solid black;
+    
+}
+
+.itemCollection .itemCollection {
+    border-right: none;
+
+    margin-left: 20px;
+    padding: 5px;
+    padding-right: 0px;
+    background-color: white;
+    
+}
+
+.itemCollection:hover {
+    background-color: yellow;
+}
+
+.itemRowView {
+
+    list-style: none;
+    margin: auto;
+    align-content: center;
+    padding: none;
+
+}
+
+.itemRowView li {
+    border: 1px solid black;
+    margin: auto;
+
+    width: 100%;
+}
+
+.itemView:hover {
+    background-color: red;
+}
+
+.itemView.open {
+    background-color: yellow;
+}
+
+.itemData {
+    display: inline-block;
+    width: 100%;
+}
+
+.itemInfo {
+    text-indent: 2em;
+    font-style: italic;
+}
+
+.itemTitle {
+    text-align: center;
+}
+
+.itemCircle {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid gold;
+    display: inline-block;
+}
+
+.itemCircle:hover {
+    background-color: blue;
 }
